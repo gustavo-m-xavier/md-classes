@@ -1,4 +1,4 @@
 # md-classes
-Repository used for codes in mobile devices classes
+Repositório para aulas de programação para dispositivos móveis
 
-## Class 1 - Introduction
+## Aula 1 - Introdução
